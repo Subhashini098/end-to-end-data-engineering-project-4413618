@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: Raw_Data
+    database: big-star-collectibles-420304
+    schema: Raw_Data
+    tables:
+      - name: customers
+      - name: orders
+      - name: products
+      - name: order_items
+
