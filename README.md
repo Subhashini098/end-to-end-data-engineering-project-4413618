@@ -11,12 +11,19 @@ Dagster and Dagit: Manage and orchestrate the data pipeline, ensuring that tasks
 ## Setup and Configuration
 1. Environment Setup: Docker is installed and configured in the necessary environments for Airbyte and BigQuery.
  ![Screenshot (1060)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/531620b8-bd6f-420e-85e8-eda99f9989b5)
-3. Data Extraction and Loading: Used Airbyte to extract data from a Postgres database.Loaded the extracted data into BigQuery.  
+
+
+2. Data Extraction and Loading: Used Airbyte to extract data from a Postgres database.Loaded the extracted data into BigQuery.  
 ![Screenshot (1063)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/8efe53fd-0d54-4543-bae1-d2f11f9cd1c8)
-5. Data Transformation: Utilized dbt to clean and transform the data within BigQuery.
+
+
+4. Data Transformation: Utilized dbt to clean and transform the data within BigQuery.
 ![Screenshot (1069)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/90d43800-57f9-4ca5-8490-0815feee7d90)
+
 ![Screenshot (1070)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/c2b85063-56ef-462b-b1b3-19fda28e86f4)
-7. Pipeline Orchestration: Set up Dagster and Dagit to automate and monitor the data pipeline.
+
+
+4.. Pipeline Orchestration: Set up Dagster and Dagit to automate and monitor the data pipeline.
 ![Screenshot (1077)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/51993b63-73b1-429f-b497-0fb786c049de)
 
 
