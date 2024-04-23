@@ -8,7 +8,7 @@ This project demonstrates the setup of a data warehouse and builds a data pipeli
 3. dbt (data build tool): Transforms and models data in BigQuery, ensuring that the data is clean, well-structured, and documented.
 4. Dagster: Manage and orchestrate the data pipeline, ensuring that tasks are executed in the correct sequence and monitoring the pipeline’s health.
 
-## Setup and Configuration
+## Implementation
 1. Environment Setup: Docker is installed and configured in the necessary environments for Airbyte and BigQuery.
  ![Screenshot (1060)](https://github.com/Subhashini098/end-to-end-data-engineering-project-4413618/assets/109629881/531620b8-bd6f-420e-85e8-eda99f9989b5)
 
